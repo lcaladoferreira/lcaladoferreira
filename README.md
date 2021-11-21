@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, Node.js, React HTML and CSS.
 - 🌱 I’m currently learning JavaScript, Node.js, React HTML and CSS
 - 💞️ I’m looking to collaborate on JavaScript, Node.js, React HTML and CSS
-- 📫 How to reach me https://linktr.ee/lcaladoferreira
+- 📫 How to reach me lcaladoferreira@gmail.com
 
 <!---
 lcaladoferreira/lcaladoferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
