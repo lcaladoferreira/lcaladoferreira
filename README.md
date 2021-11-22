@@ -2,16 +2,26 @@
 lcaladoferreira/lcaladoferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## 🛸  Hello budies, this is <strong>Leandro Calado!</strong>
+### hi devs 👋
 
 > I'm a paralegal specialist interested in full stack development technologies.
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 
 - 🛸 You can reach me and keep in touch about technology news on my Medium profile at: https://lcaladoferreira.medium.com/
 - 👨🏻‍⚖️.Also, with you want to understand about law you can reach me on my Jusbrasil profile at: https://leandrocalado.jusbrasil.com.br/
 - 📫 get my e-mail and let's code: lcaladoferreira@gmail.com
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```
+object **MY NAME** {
+ val name = "FULL NAME"
+ val acknowledgements = "KNOWLEGDE FIELD"
+ 
+ val primarySkillset = "HARD SKILLS"
+ val languages = listOf("JavaScript", "Node.js", "Angular", "React", "MySQL") 
+
+}
+```
 ----
 
 ## 🚀 My Studies
@@ -28,6 +38,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## ⭐ Info about my Github
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lcaladoferreira&show_icons=true)
+[![lcaladoferreira](https://github-readme-stats.vercel.app/api?username=lcaladoferreira&theme=radical)](https://github.com/lcaladoferreira/)
+
+[![lcaladoferreira](https://github-readme-stats.vercel.app/api/top-langs/?username=lcaladoferreira&hide=html&layout=compact&theme=radical)](https://github.com/lcaladoferreira/)
+
+
 
 
