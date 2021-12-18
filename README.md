@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### hi devs 👋
 
-> I'm a paralegal specialist interested in full stack development technologies.
+> I'm a paralegal specialist interested in full stack development.
 - 🛸 You can reach me and keep in touch about technology news on my Medium profile at: https://lcaladoferreira.medium.com/
 - 👨🏻‍⚖️.Also, with you want to understand about law you can reach me on my Jusbrasil profile at: https://leandrocalado.jusbrasil.com.br/
 - 📫 get my e-mail and let's code: lcaladoferreira@gmail.com
