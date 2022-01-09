@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 > I'm a paralegal specialist interested in full stack development.
 - 🛸 You can reach me and keep in touch about technology news on my Medium profile at: https://zefino.medium.com/
 - 👨🏻‍⚖️.Also, with you want to understand about law you can reach me on my Jusbrasil profile at: https://leandrocalado.jusbrasil.com.br/
-- 📫 get my e-mail and let's code: lcaladoferreira@gmail.com
+- 📫 get my e-mail: lcaladoferreira@gmail.com
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
