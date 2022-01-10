@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### hi devs 👋
 
-> I'm a paralegal specialist interested in full stack development.
+> I'm interested in full stack development.
 - 🛸 You can reach me and keep in touch about technology news on my Medium profile at: https://zefino.medium.com/
 - 👨🏻‍⚖️.Also, with you want to understand about law you can reach me on my Jusbrasil profile at: https://leandrocalado.jusbrasil.com.br/
 - 📫 get my e-mail: lcaladoferreira@gmail.com
@@ -18,7 +18,7 @@ object **MY NAME** {
  val acknowledgements = "KNOWLEGDE FIELD"
  
  val primarySkillset = "HARD SKILLS"
- val languages = listOf("JavaScript", "Node.js", "Angular", "React", "MySQL") 
+ val languages = listOf("JavaScript", "Node.js", "Angular", "React", "MySQL", "Express") 
 
 }
 ```
