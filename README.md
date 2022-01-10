@@ -2,11 +2,11 @@
 lcaladoferreira/lcaladoferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### hi devs 👋
+### hi devs (oi devs) 👋
 
-> I'm interested in full stack development.
-- 🛸 You can reach me and keep in touch about technology news on my Medium profile at: https://zefino.medium.com/
-- 👨🏻‍⚖️.Also, with you want to understand about law you can reach me on my Jusbrasil profile at: https://leandrocalado.jusbrasil.com.br/
+> I'm interested in full stack development. (Tenho interesse em Desenvolvimento Full Stack)
+- 🛸 You can reach me and keep in touch about technology news on my Medium profile at: https://zefino.medium.com/ (meus artigos em tecnoligia)
+- 👨🏻‍⚖️.Also, with you want to understand about law you can reach me on my Jusbrasil profile at: https://leandrocalado.jusbrasil.com.br/ (meus artigos em direito)
 - 📫 get my e-mail: lcaladoferreira@gmail.com
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
