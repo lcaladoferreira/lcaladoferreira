@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ```
 let myProfile = {
 
-     experience: ["Node.JS Developer", "Paralegal Services"],
+     experience: ["Node.JS Developer", "Legal Services"],
      acknowledgements: ["Junior Developer", "Law-Tech"],
      primarySkillset: ["JavaScript", "CSS", "HTML", "Law"],
      patterns: ["Node.js", "Express.js", "Sequelize", "Bootstrap", "React", "Paralegal Assistance"]
