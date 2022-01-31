@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 get my e-mail: lcaladoferreira@gmail.com
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
-<img align="right" width="278" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="279" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```
 let myProfile = {
