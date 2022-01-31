@@ -2,25 +2,24 @@
 lcaladoferreira/lcaladoferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-### hi devs (oi devs) 👋
+### hi devs 👋
 
-> I'm interested in full stack development. (Tenho interesse em Desenvolvimento Full Stack)
-- 🛸 You can reach me and keep in touch about technology news on my Medium profile at: https://zefino.medium.com/ (meus artigos em tecnoligia)
-- 👨🏻‍⚖️.Also, with you want to understand about law you can reach me on my Jusbrasil profile at: https://leandrocalado.jusbrasil.com.br/ (meus artigos em direito)
+> I'm interested in full stack development.
+- 🛸 You can reach me and keep in touch about technology news on my Medium profile at: https://zefino.medium.com/ 
+- 👨🏻‍⚖️.Also, with you want to understand about law you can reach me on my Jusbrasil profile at: https://leandrocalado.jusbrasil.com.br/ 
 - 📫 get my e-mail: lcaladoferreira@gmail.com
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```
-object **MY NAME** {
- val name = "FULL NAME"
- val acknowledgements = "KNOWLEGDE FIELD"
- 
- val primarySkillset = "HARD SKILLS"
- val languages = listOf("JavaScript", "Node.js", "Express.js", "Sequelize", "React") 
+let myProfile = {
 
-}
+     experience: ["Node.JS Developer", "Paralegal Services"],
+     acknowledgements: ["Junior Developer", "Law-Tech"],
+     primarySkillset: ["JavaScript", "CSS", "HTML", "Law"],
+     patterns: ["Node.js", "Express.js", "Sequelize", "Bootstrap", "React", "Paralegal Assistance"]
+};
 ```
 ----
 
