@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 ```
 let myProfile = {
 
-     experience: ["Node.JS Developer", "Legal Services"],
-     acknowledgements: ["Junior Developer", "Law-Tech"],
-     primarySkillset: ["JavaScript", "CSS", "HTML", "Law"],
-     patterns: ["Node.js", "Express.js", "Sequelize", "Bootstrap", "React", "Paralegal Assistance"]
+     experience: ["Full Stack NodeJS", "Paralegal Specialist"],
+     acknowledgements: ["Visual Computing", "Law-Tech"],
+     primarySkillset: ["Angular", "Bootstrap", "Express", "json-server"],
+     patterns: ["ES6", "IIFE", "testDB", "RGPD"] 
 };
 ```
 ----
@@ -30,7 +30,7 @@ let myProfile = {
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 ---
