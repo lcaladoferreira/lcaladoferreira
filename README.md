@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ### 
 
-> I'm an MBA student in Front-End with Full Stack Node developer, Responsive Design, Javascript ES6 and Advanced HTML5 certifications:
+> I'm an MBA student in Front-End with Full Stack Node, Responsive Design, Javascript ES6 and Advanced HTML5 certifications:
 - 🛸 You can reach me and keep in touch about technology news on my Medium profile at: https://zefino.medium.com/ 
 - 👨🏻‍⚖️.Also, with you want to understand about law you can reach me on my Jusbrasil profile at: https://leandrocalado.jusbrasil.com.br/ 
 - 📫 get my e-mail: lcaladoferreira@gmail.com
