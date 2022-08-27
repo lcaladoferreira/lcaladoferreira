@@ -16,10 +16,9 @@ I'm an MBA student in Front-End with Full Stack Node, Responsive Design, Javascr
 ```
 let myProfile = {
 
-     experience: ["Full Stack NodeJS", "Paralegal Specialist"],
+     experience: ["Full Stack NodeJS", "Paralegal Specialist", "Font-End Development"],
      acknowledgements: ["Visual Computing", "Law-Tech"],
-     primarySkillset: ["Angular", "Bootstrap", "Express", "json-server"],
-     patterns: ["ES6", "IIFE", "testDB", "RGPD"] 
+     primarySkillset: ["Angular", "React", "VueJS", "Bootstrap"],
 };
 ```
 ----
@@ -32,7 +31,9 @@ let myProfile = {
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VueJS"/></code>
+
 
 ---
 
