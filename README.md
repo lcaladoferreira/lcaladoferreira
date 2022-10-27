@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 ### 
 I'm an MBA student in Front-End with Full Stack Node, Responsive Design, Javascript ES6 and Advanced HTML5 certifications:
 - 🛸 You can reach me and keep in touch about technology news on my Medium profile at: https://zefino.medium.com/ 
-- 👨🏻‍⚖️.Also, with you want to understand about law you can reach me on my Jusbrasil profile at: https://leandrocalado.jusbrasil.com.br/ 
+- 👨🏻‍⚖️.Also, with you want to understand about brazilian law you can reach me on my Jusbrasil profile at: https://leandrocalado.jusbrasil.com.br/ 
 - 📫 get my e-mail: lcaladoferreira@gmail.com
 - Click on my name <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lcaladoferreira" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lcaladoferreira/en?trk=profile-badge">Leandro C.</a></div> and find me on LinkedIn 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
