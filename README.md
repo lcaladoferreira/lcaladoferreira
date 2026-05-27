@@ -1,52 +1,117 @@
+<!--
+lcaladoferreira/lcaladoferreira is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->
 
-<!---
-lcaladoferreira/lcaladoferreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### 
-I'm an MBA student in Data Science, with MBA in Front-End, Full Stack Node, Responsive Design, Javascript ES6 and Advanced HTML5 certifications:
-- 🛸 You can reach me and keep in touch about technology news on my Medium profile at: https://zefino.medium.com/ 
-- 👨🏻‍⚖️.Also, with you want to understand about brazilian law you can reach me on my Jusbrasil profile at: https://leandrocalado.jusbrasil.com.br/ 
-- 📫 get my e-mail: lcaladoferreira@gmail.com
-- Click on my name <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="lcaladoferreira" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/lcaladoferreira/en?trk=profile-badge">Leandro C.</a></div> and find me on LinkedIn 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
+# Leandro Calado Ferreira
 
-```
-export interface Iprofile {
-  frontEnd: string;
-  backEnd: string;
-  experience: number;
-  desc?: string;
-}
+### AI Engineering • Safe AI • Data Systems • LegalTech
 
-export function getProfileEndpoint(): Promise<Iprofile[]> {
-  return fetch("http://localhost:8080/profile").then((resp) => {
-    return resp.json();
-  });
-}
+I'm a Data Engineer, technical author, and researcher focused on AI Agents, workflow automation, distributed data systems, LLM safety, and semantic-first AI infrastructure.
 
-```
-----
+I work with AWS, Databricks, Spark, Python, MCP (Model Context Protocol), automation systems, and enterprise-grade orchestration pipelines.
 
-## 🚀 My Studies
+I have published 100+ technical books about Artificial Intelligence, Data Engineering, automation systems, and AI Agents on Amazon KDP.
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="VueJS"/></code>
-
+* 🧠 Official website: https://leandrocaladoferreira.com
+* 🛸 Technical articles and AI research on Medium: https://leandrocaladoferreira.medium.com/
+* 👨🏻‍⚖️ LegalTech & Brazilian Law: https://leandrocalado.jusbrasil.com.br/
+* 💼 LinkedIn: https://linkedin.com/in/lcaladoferreira
+* 📚 Amazon Author Page: https://amazon.com/author/leandrocalado
+* 📫 Contact: [lcaladoferreira@gmail.com](mailto:lcaladoferreira@gmail.com)
 
 ---
 
-## ⭐ Info about my Github
-[![lcaladoferreira](https://github-readme-stats.vercel.app/api?username=lcaladoferreira&theme=radical)](https://github.com/lcaladoferreira/)
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> More about me
 
-[![lcaladoferreira](https://github-readme-stats.vercel.app/api/top-langs/?username=lcaladoferreira&hide=html&layout=compact&theme=radical)](https://github.com/lcaladoferreira/)
+```typescript
+export interface IProfile {
+  role: string;
+  specialties: string[];
+  experience: number;
+  focus?: string;
+}
 
+export async function getProfile(): Promise<IProfile> {
+  return {
+    role: "Senior Data Engineer & Technical Author",
+    specialties: [
+      "AI Agents",
+      "Safe AI",
+      "LLM Security",
+      "AWS Glue",
+      "Databricks",
+      "Apache Spark",
+      "Semantic Retrieval",
+      "Workflow Automation",
+      "LegalTech",
+      "Data Engineering"
+    ],
+    experience: 7,
+    focus: "Building semantic-first AI infrastructure and production-ready data systems."
+  };
+}
+```
 
+---
 
+## 🚀 Core Technologies
 
+<code><img height="36" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python"/></code> <code><img height="36" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" alt="AWS"/></code> <code><img height="36" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" alt="Docker"/></code> <code><img height="36" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png" alt="Kubernetes"/></code> <code><img height="36" src="https://raw.githubusercontent.com/github/explore/main/topics/apache-spark/apache-spark.png" alt="Apache Spark"/></code> <code><img height="36" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" alt="PostgreSQL"/></code> <code><img height="36" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" alt="MySQL"/></code> <code><img height="36" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="Javascript"/></code> <code><img height="36" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="Typescript"/></code> <code><img height="36" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"/></code>
+
+---
+
+## 🧠 Research Areas
+
+* AI Agents & Autonomous Systems
+* Safe AI & Prompt Injection Defense
+* Model Context Protocol (MCP)
+* Semantic Retrieval & RAG Pipelines
+* Distributed Data Systems
+* Data Lakehouse Architectures
+* Workflow Automation
+* AI Governance & LegalTech
+* LLM Infrastructure
+* Enterprise AI Systems
+
+---
+
+## 📚 Latest Focus
+
+```yaml
+current_focus:
+  - AI Agents
+  - Safe AI
+  - Semantic Infrastructure
+  - LLM Security
+  - Workflow Automation
+  - Data Engineering
+  - Knowledge Graphs
+  - AI Retrieval Optimization
+```
+
+---
+
+## ⭐ GitHub Analytics
+
+[![lcaladoferreira](https://github-readme-stats.vercel.app/api?username=lcaladoferreira\&show_icons=true\&theme=tokyonight)](https://github.com/lcaladoferreira)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcaladoferreira\&layout=compact\&theme=tokyonight)](https://github.com/lcaladoferreira)
+
+---
+
+## 🌐 Semantic Authority Hub
+
+```txt
+Leandro Calado Ferreira
+ ├── AI Engineering
+ ├── Safe AI
+ ├── Data Engineering
+ ├── AI Agents
+ ├── Workflow Automation
+ ├── LegalTech
+ ├── Technical Books
+ ├── Research Articles
+ └── Semantic AI Infrastructure
+```
+
+---
