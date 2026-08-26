@@ -1,8 +1,12 @@
-<!--
-lcaladoferreira/lcaladoferreira is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
-
 # Leandro Calado Ferreira
+
+## 🚨 Data Engineer Interview Command Center — PRO
+
+**105 technical interview questions + AWS/Azure/GCP tracks + resume-to-job gap analysis + 7/14-day study plan + STAR planning + offer comparison.**
+
+👉 **Get instant access for US$9:** https://lcaladoferreira.github.io/csb-q8rdde/sale.html
+
+---
 
 ### AI Engineering • Safe AI • Data Systems • LegalTech
 
@@ -17,7 +21,6 @@ I have published 100+ technical books about Artificial Intelligence, Data Engine
 * 👨🏻‍⚖️ LegalTech & Brazilian Law: https://leandrocalado.jusbrasil.com.br/
 * 💼 LinkedIn: https://linkedin.com/in/lcaladoferreira
 * 📚 Amazon Author Page: https://amazon.com/author/leandrocalado
-* 📫 Contact: [lcaladoferreira@gmail.com](mailto:lcaladoferreira@gmail.com)
 
 ---
 
@@ -93,9 +96,9 @@ current_focus:
 
 ## ⭐ GitHub Analytics
 
-[![lcaladoferreira](https://github-readme-stats.vercel.app/api?username=lcaladoferreira\&show_icons=true\&theme=tokyonight)](https://github.com/lcaladoferreira)
+[![lcaladoferreira](https://github-readme-stats.vercel.app/api?username=lcaladoferreira&show_icons=true&theme=tokyonight)](https://github.com/lcaladoferreira)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcaladoferreira\&layout=compact\&theme=tokyonight)](https://github.com/lcaladoferreira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcaladoferreira&layout=compact&theme=tokyonight)](https://github.com/lcaladoferreira)
 
 ---
 
@@ -113,5 +116,3 @@ Leandro Calado Ferreira
  ├── Research Articles
  └── Semantic AI Infrastructure
 ```
-
----
