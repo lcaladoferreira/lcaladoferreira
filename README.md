@@ -8,6 +8,14 @@
 
 ---
 
+## 🔴 Latest Technical Analysis — Oct 5, 2026
+
+**[OpenAI “Rogue” Agents on Wikimedia: A Harness Engineering Failure Pattern](https://leandrocaladoferreira.com/harness-engineering/openai-wikimedia-rogue-agents)**
+
+What the Wikimedia disclosure reveals about agent identity, least privilege, rate limits, egress control, approvals, observability, containment and rollback.
+
+---
+
 ### AI Engineering • Safe AI • Data Systems • LegalTech
 
 I'm a Data Engineer, technical author, and researcher focused on AI Agents, workflow automation, distributed data systems, LLM safety, and semantic-first AI infrastructure.
