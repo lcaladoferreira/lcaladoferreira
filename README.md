@@ -1,5 +1,14 @@
 # Leandro Calado Ferreira
 
+## ⚡ AI Coding Agent Rules Pack — 38 Files
+
+**Production-ready rules, safety controls, task specs and review workflows for Claude Code, Cursor, Codex and Gemini CLI.**
+
+- Free starter pack: https://github.com/lcaladoferreira/lcaladoferreira/tree/main/agent-rules-free
+- Complete 38-file pack — **US$9**: https://shop.leandrocaladoferreira.com/?utm_source=github&utm_medium=profile&utm_campaign=agent-rules
+
+---
+
 ## 🚨 Data Engineer Interview Command Center — PRO
 
 **105 technical interview questions + AWS/Azure/GCP tracks + resume-to-job gap analysis + 7/14-day study plan + STAR planning + offer comparison.**
