@@ -1,0 +1,35 @@
+name: Agent reliability lab
+on:
+  pull_request:
+    paths: ['agent-reliability-lab/**', '.github/workflows/agent-reliability-lab.yml']
+  push:
+    paths: ['agent-reliability-lab/**', '.github/workflows/agent-reliability-lab.yml']
+permissions:
+  contents: read
+jobs:
+  offline-contracts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    strategy:
+      matrix:
+        python-version: ['3.11', '3.12', '3.13']
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '${{ matrix.python-version }}'
+      - name: Test failure, recovery, authorization and concurrency
+        working-directory: agent-reliability-lab
+        run: python -m unittest -v
+      - name: Produce observed reports
+        working-directory: agent-reliability-lab
+        run: |
+          python lab.py demo > demo-results.json
+          python lab.py evaluate > evaluation-results.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: agent-reliability-results-python-${{ matrix.python-version }}
+          path: |
+            agent-reliability-lab/demo-results.json
+            agent-reliability-lab/evaluation-results.json
+          retention-days: 30
