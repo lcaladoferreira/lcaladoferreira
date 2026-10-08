@@ -1,0 +1,34 @@
+{
+  "name": "AI Coding Agent Rules Starter Pack",
+  "kind": "Library / SDK",
+  "domains": [
+    "Guardrails & Structure",
+    "Coding",
+    "Agents & Orchestration"
+  ],
+  "tags": [
+    "AGENTS.md",
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "Gemini CLI",
+    "MCP"
+  ],
+  "six_word_summary": "Production guardrails for AI coding agents",
+  "who": "Leandro Calado Ferreira",
+  "what": "MIT-licensed coding-agent rule files and task templates focused on verification, security, minimal diffs and safer tool use.",
+  "where": "Source-controlled software projects using Claude Code, Cursor, Codex, Gemini CLI or compatible coding agents.",
+  "when": "Copied into a repository as AGENTS.md, CLAUDE.md, Cursor MDC rules or reusable task/review templates.",
+  "why": "Reduce unrelated refactors, missing verification, secret exposure and unsafe tool or migration behavior.",
+  "with": "Plain Markdown, MDC and repository-native instruction files; no runtime dependency or signup.",
+  "github_url": "https://github.com/lcaladoferreira/lcaladoferreira",
+  "docs_url": "https://github.com/lcaladoferreira/lcaladoferreira/tree/main/agent-rules-free",
+  "watch": "Individual-maintained public GitHub resource. Free starter files are MIT licensed. No executable installer, credentials, network calls or background processes are required.",
+  "works_with": [
+    "Claude Code",
+    "Cursor",
+    "Codex",
+    "Gemini CLI",
+    "GitHub"
+  ]
+}
