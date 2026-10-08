@@ -1,3 +1,14 @@
+# Free AI Agent Reliability Incident Lab
+
+Reproduce a lost-response failure, prevent duplicate synthetic actions, and test recovery in Python.
+
+**[Run the free lab and read the practical articles](https://github.com/lcaladoferreira/lcaladoferreira/tree/main/agent-reliability-lab)**
+
+20 regression tests passed on Python 3.11, 3.12 and 3.13. No API key or paid service required.
+Companion book *AI Agent Reliability Engineering* is in preparation.
+
+---
+
 # Leandro Calado Ferreira
 
 ## ⚡ AI Coding Agent Rules Pack — 38 Files

@@ -49,3 +49,13 @@ Manuscript in preparation. No purchase link until a published Amazon listing is 
 ## License
 
 Source and tests: MIT. Editorial text: copyright Leandro Calado Ferreira.
+
+## Practical articles
+
+- [How to Test an AI Agent's Tool Calls](articles/01-test-tool-calls.md)
+- [Why Retries Create Duplicate Agent Actions](articles/02-retries-duplicate-actions.md)
+- [A Python Evaluation Dataset for Agent Tool Contracts](articles/03-evaluation-dataset.md)
+- [Recovering an Agent Worker After a Committed Action](articles/04-recover-after-timeout.md)
+
+Verified test run: https://github.com/lcaladoferreira/lcaladoferreira/actions/runs/37814681218
+All 20 tests passed on Python 3.11, 3.12 and 3.13.
