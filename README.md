@@ -1,3 +1,15 @@
+<!-- readymadedesk-csvshield-launch:start -->
+## CSV Shield — offline CSV → XLSX
+
+Turn CSV files into an Excel workbook while keeping account numbers, leading zeros, long IDs, and date-like values as text. Files stay on your device. The downloaded app runs locally in your browser.
+
+[Try the free 20-row demo](https://readymadedesk.lcalado.chatgpt.site/demo?utm_source=github&utm_medium=profile&utm_campaign=csvshield_launch) · [Get the full offline app — US$9 once](https://readymadedesk.lcalado.chatgpt.site/csv?utm_source=github&utm_medium=profile&utm_campaign=csvshield_launch)
+
+The full app combines CSV files into separate sheets and includes a file audit sheet. Download is released after PayPal confirms payment.
+<!-- readymadedesk-csvshield-launch:end -->
+
+---
+
 # Free AI Agent Reliability Incident Lab
 
 Reproduce a lost-response failure, prevent duplicate synthetic actions, and test recovery in Python.
