@@ -1,11 +1,11 @@
 <!-- readymadedesk-csvshield-launch:start -->
-## CSV Shield — offline CSV → XLSX
+## Free CSV Shield — offline CSV → XLSX
 
-Turn CSV files into an Excel workbook while keeping account numbers, leading zeros, long IDs, and date-like values as text. Files stay on your device. The downloaded app runs locally in your browser.
+Keep leading zeros, long IDs, date strings and formula-like values as text. Combine CSVs into separate workbook sheets, with a SHA-256 source audit. Files stay on your device; the saved app runs offline.
 
-[Try the free 20-row demo](https://readymadedesk.lcalado.chatgpt.site/demo?utm_source=github&utm_medium=profile&utm_campaign=csvshield_launch) · [Get the full offline app — US$9 once](https://readymadedesk.lcalado.chatgpt.site/csv?utm_source=github&utm_medium=profile&utm_campaign=csvshield_launch)
+[Use the full tool free](https://shop.leandrocaladoferreira.com/readymadedesk/demo?utm_source=github&utm_medium=profile&utm_campaign=readymadedesk_launch) · [Save the free offline app](https://shop.leandrocaladoferreira.com/readymadedesk/csv?utm_source=github&utm_medium=profile&utm_campaign=readymadedesk_launch)
 
-The full app combines CSV files into separate sheets and includes a file audit sheet. Download is released after PayPal confirms payment.
+Also new: [Halloween Party Pack + 30 bonus bingo cards — US$2.99](https://shop.leandrocaladoferreira.com/readymadedesk/halloween?utm_source=github&utm_medium=profile&utm_campaign=halloween_pack_launch). Four printable PDFs: A4 and US Letter, 24 pages per paper format, caller slips, party games and ballots. Download unlocks after PayPal confirms payment.
 <!-- readymadedesk-csvshield-launch:end -->
 
 ---
