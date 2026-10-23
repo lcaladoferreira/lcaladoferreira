@@ -4,6 +4,14 @@
 
 **[Read or buy on Amazon.com →](https://www.amazon.com/dp/B0GYG3WG4Q)** · **[Amazon Brasil →](https://www.amazon.com.br/dp/B0GYG3WG4Q)** · [What is inside the book](https://leandrocaladoferreira.com/books/harness-engineering-ai-coding-agents)
 
+### New: Harness Engineering for Data Agents on Databricks
+
+**Building Databricks data agents for production?** Explore tool permissions, Unity Catalog governance, MCP gateways, Lakeflow, data contracts, quality gates and failure recovery in the companion book.
+
+**[Buy on Amazon Brasil →](https://www.amazon.com.br/dp/B0HHZXPJV1)** · **[Read Chapter 1 free + take the production test →](https://leandrocaladoferreira.com/books/harness-engineering-data-agents-databricks)**
+
+**[Browse selected Amazon books →](https://www.lcfconsulting.com.br/livros/)**
+
 ---
 
 <!-- readymadedesk-csvshield-launch:start -->
