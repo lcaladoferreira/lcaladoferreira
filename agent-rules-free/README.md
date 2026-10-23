@@ -43,6 +43,12 @@ curl -L https://raw.githubusercontent.com/lcaladoferreira/lcaladoferreira/main/a
 - MCP/tool output treated as untrusted input
 - failure-path testing
 
+## Companion book: Harness Engineering for AI Coding Agents
+
+Using the free `AGENTS.md` starter rules? The companion book explains the wider engineering workflow around AI coding agents: task boundaries, guardrails, testing, CI gates, and security review. It is aimed at developers building with Claude Code, Codex, and Cursor.
+
+**[Explore *Harness Engineering for AI Coding Agents* on Amazon.com →](https://www.amazon.com/dp/B0GYG3WG4Q)**
+
 ## Complete pack
 
 The paid **AI Coding Agent Rules Pack** contains 38 Markdown/MDC/YAML files covering:
