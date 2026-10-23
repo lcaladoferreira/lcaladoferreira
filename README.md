@@ -1,3 +1,11 @@
+## 📚 Featured Amazon Book — Harness Engineering for AI Coding Agents
+
+**Claude Code, Codex and Cursor can produce code fast. The hard part is making their changes safe to ship.** This practical guide covers agent boundaries, AGENTS.md rules, task contracts, automated tests, security checks and CI gates.
+
+**[Read or buy on Amazon.com →](https://www.amazon.com/dp/B0GYG3WG4Q)** · **[Amazon Brasil →](https://www.amazon.com.br/dp/B0GYG3WG4Q)** · [What is inside the book](https://leandrocaladoferreira.com/books/harness-engineering-ai-coding-agents)
+
+---
+
 <!-- readymadedesk-csvshield-launch:start -->
 ## Free CSV Shield — offline CSV → XLSX
 
